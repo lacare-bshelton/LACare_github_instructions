@@ -12,3 +12,9 @@ Once a new account is created, it should be converted to a plan with private rep
 + Under *Plan*, click on *Get private repositories*
 + Enter your own credit card information to pay for a full year
 + Expense the payment via a new expense report in your LA Care [Concur Solutions](https://www.concursolutions.com) account with expense report title "GitHub Private Account Annual Payment" and expense type *fees/dues*
+
+
+### References
+If you are new to GitHub or need a refresher, I recommend the following two videos: [GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE) and [GitHub Pull Requests](https://www.youtube.com/watch?v=oFYyTZwMyAg)
+
+Reference [this page](https://www.cloudera.com/documentation/data-science-workbench/latest/topics/cdsw_using_git.html) for information on using Git within the Cloudera Data Science Workbench.

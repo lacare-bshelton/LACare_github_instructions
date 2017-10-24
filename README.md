@@ -9,4 +9,4 @@ Once a new account is created, it should be converted to a plan with Private Rep
 + Click the dropdown icon in the top right corner of GitHub webpage
 + Click on *Settings*
 + When the new webpage opens, select *Billing* from the options on the left hand side of the page
-+ Under *Plan*, click on *Get Private Repositories*
++ Under *Plan*, click on *Get private repositories*

@@ -1,4 +1,4 @@
-# LACare_github_instructions
+# LACare_Github_Instructions
 
 ##### This file contains instruction on how to use GitHub for version control of LA Care code developed in the Cloudera DSW.
 

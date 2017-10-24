@@ -11,4 +11,4 @@ Once a new account is created, it should be converted to a plan with private rep
 + When the new webpage opens, select *Billing* from the options on the left hand side of the page
 + Under *Plan*, click on *Get private repositories*
 + Enter your own credit card information to pay for a full year
-+ Expense the payment via your LA Care [Concur Solutions](https://www.concursolutions.com) account
++ Expense the payment via a new expense report in your LA Care [Concur Solutions](https://www.concursolutions.com) account with expense report title "GitHub Private Account Annual Payment" and expense type *fees/dues*
